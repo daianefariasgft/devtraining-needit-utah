@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">a1593d49c322921024abf3ddd4013128</canvas>
+        <component display_value="Rich text">2d56f06d55f46bbd4e79b5e624beb940</component>
+        <component_props>{"html":"&lt;p&gt;The world works with ServiceNow&lt;/p&gt;"}</component_props>
+        <h>14</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 18:52:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6e3cf94dc322921024abf3ddd401315a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_widget_6e3cf94dc322921024abf3ddd401315a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 18:52:29</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>46</y>
+    </par_dashboard_widget>
+</record_update>
